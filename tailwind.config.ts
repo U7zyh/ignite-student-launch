@@ -47,6 +47,12 @@ export default {
           DEFAULT: "hsl(var(--card))",
           foreground: "hsl(var(--card-foreground))",
         },
+        academic: {
+          primary: "hsl(var(--academic-primary))",
+          secondary: "hsl(var(--academic-secondary))",
+          success: "hsl(var(--academic-success))",
+          warning: "hsl(var(--academic-warning))",
+        },
         sidebar: {
           DEFAULT: "hsl(var(--sidebar-background))",
           foreground: "hsl(var(--sidebar-foreground))",
